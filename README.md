@@ -32,3 +32,5 @@ This is a number guessing game.
 - [Support](#support)- 📦 View and manage orders
 
 - ✅ Update order status (pending → processing → shipped → completed)
+
+# Added a new section to introduce merge conflicts
